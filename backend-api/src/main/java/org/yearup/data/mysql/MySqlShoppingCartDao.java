@@ -125,7 +125,6 @@ public class MySqlShoppingCartDao extends MySqlDaoBase implements ShoppingCartDa
         }
     }
 
-    // NEED TO FIX - cant update cart and causes error
     @Override
     public ShoppingCart updateProductQuantity(ShoppingCartItem item, User user)
     {
