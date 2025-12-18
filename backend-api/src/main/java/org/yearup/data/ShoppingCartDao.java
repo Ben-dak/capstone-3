@@ -8,7 +8,7 @@ public interface ShoppingCartDao {
     ShoppingCart getCartByUserId(int userId);
     ShoppingCart addProduct(ShoppingCartItem item, User user);
     ShoppingCart updateProductQuantity(ShoppingCartItem item, User user);
-    // Updates existing item in a users shopping cart (says no usages as I use-
+    // Updates existing item in a users shopping cart (says no usages as I decided to use-
     // "addProduct" in controller to update over the currently added
     ShoppingCart clearCart(User user);
 }
