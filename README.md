@@ -1,10 +1,9 @@
-# <center>Video Game Store API
+# <center>Video Game Store
 
 ---
 
 ## Project Overview
-This application allows users to browse a video game storefront, create an account, log in securely, and add products to a personal shopping cart.
-Authenticated users can view and manage their cart, while administrators can create, update, and remove products and categories.
+This program allows users to browse a video game storefront, log in securely, and add products to a personal shopping cart., while administrators can create, update, and remove products and categories.
 
 ---
 
@@ -82,7 +81,7 @@ ___
 
 ## Interesting code
 
-This frontend code is what was most interesting to me as it was challenging (I spent way too much time on this).  I did a bit of research on javascript to fix a few issues that weren't being resolved by Ninjava.  
+This frontend code is what was most interesting to me as it was challenging (I spent way too much time on this).  I did a bit of research on CSS and JavaScript to fix issues that weren't being resolved by Ninjava.  
 
 ![frontend code 1.png](frontend-ui/images/screenshots/frontend%20code%201.png)
 
